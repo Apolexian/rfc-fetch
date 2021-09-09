@@ -4,6 +4,12 @@ A very small script to fetch the txt file for a given RFC.
 
 <https://crates.io/crates/rfcfetch>
 
+Install:
+
+```shell
+cargo install rfcfetch
+```
+
 Example usage:
 
 ```shell
