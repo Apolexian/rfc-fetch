@@ -2,6 +2,12 @@
 edition = "2018"
 name = "rfcfetch"
 version = "0.1.0"
+readme= "README.md"
+license = "MIT"
+authors = ["Ivan Nikitin <ivan@niktivan.org>"]
+description = "Small script to fetch RFCs"
+repository = "https://github.com/Apolexian/rfc-fetch"
+homepage = "https://github.com/Apolexian/rfc-fetch"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
